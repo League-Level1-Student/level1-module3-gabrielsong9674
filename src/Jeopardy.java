@@ -261,4 +261,3 @@ public void playJeopardyTheme() {
 		frame.pack();
 	}
 }
-
