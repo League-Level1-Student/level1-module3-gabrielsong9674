@@ -1,12 +1,4 @@
 
-<<<<<<< HEAD
-=======
-/*
- *    Copyright (c) The League of Amazing Programmers 2013-2018
- *    Level 1
- */
-
->>>>>>> 2799cf383def56f8d302a99d49696a59c4e97ba8
 import java.awt.Dimension;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
@@ -33,13 +25,10 @@ public class BookOfIllusions extends MouseAdapter {
 
 	// 1. Make a JFrame variable and initialize it using "new JFrame()"
 	JFrame frame = new JFrame();
-<<<<<<< HEAD
+
 	Dimension frameSize = new Dimension(1000, 1000);
 	JLabel image;
 
-=======
-	Dimension frameSize = new Dimension(100, 100);
->>>>>>> 2799cf383def56f8d302a99d49696a59c4e97ba8
 	private void createBook() {
 		// 2. make the frame visible
 		frame.setVisible(true);

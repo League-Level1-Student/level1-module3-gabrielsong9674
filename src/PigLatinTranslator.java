@@ -94,8 +94,4 @@ public class PigLatinTranslator implements ActionListener {
 		}
 	}
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 2799cf383def56f8d302a99d49696a59c4e97ba8
